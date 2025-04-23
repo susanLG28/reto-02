@@ -17,3 +17,6 @@ vamos a ver 3 formas:
 
 
  ![image](https://github.com/user-attachments/assets/c75d3664-a097-4d62-b2f5-43dd8d062e4a)
+
+
+gracias :)
