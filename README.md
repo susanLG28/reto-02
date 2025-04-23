@@ -7,8 +7,8 @@ vamos a ver 3 formas:
  ![image](https://github.com/user-attachments/assets/a4d4f1fb-1343-4634-9f10-30db05d24308)
 
 
-2. phyton
-
+2. python
+   
    
  ![image](https://github.com/user-attachments/assets/dd734511-94fb-4202-9fba-1bb38cd97a61)
 
